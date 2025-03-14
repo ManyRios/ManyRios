@@ -1,4 +1,4 @@
-Hi 👋 there I'm Manuel Ríos
+Hi 👋 there I'm Manuel
 ============================
 
 Full-Stack Dev / Blockchain
